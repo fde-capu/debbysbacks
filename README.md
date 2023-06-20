@@ -116,4 +116,4 @@ This command will create a tarball of the `/etc` and `/home` directories, exclud
 
 Now, you can follow the previous solution to create a one-script solution, but use the modified tar command to create the backup. This will ensure that your personal files are not included in the backup, and only software-related configurations and customizations are backed up.
 
-Please note that this solution assumes that all software-related configurations are stored within the `/etc` and `/home` directories. If there are any additional folders containing important configurations, you may need to include them in the backup as well.# debbysbacks
+Please note that this solution assumes that all software-related configurations are stored within the `/etc` and `/home` directories. If there are any additional folders containing important configurations, you may need to include them in the backup as well.
